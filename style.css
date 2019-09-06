@@ -11,7 +11,7 @@ and open the template in the editor.
    
 }
 body{
-    background-image:url("download_1.jpg");
+    background-image:url("pic2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Arial';
@@ -63,7 +63,7 @@ td:hover{
     display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('download_3.jpg');
+    background-image:url('pic1.jpg');
     position:absolute;
     left:100px;
     background-size: cover;
@@ -74,7 +74,7 @@ td:hover{
      display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('download_2.jpg');
+    background-image:url('pic2.jpg');
     position:relative;
     top:70px;
     left:90px;
@@ -84,7 +84,7 @@ td:hover{
     display:inline-block;
     width:150px;
     height: 150px;
-    background-image:url('download_1.jpg');
+    background-image:url('pic3.jpg');
     position:absolute;
     right: 70px;
     top:90px;
