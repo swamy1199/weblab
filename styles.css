@@ -82,22 +82,22 @@ li{
 }
 .tb1{
     background-image: url('tb1.jpg');
-    width: 480px;
-    height:200px;
+    width: 450px;
+    height:180px;
     background-position: center center;
     text-align: center; 
 }
 .tb2{
     background-image: url('tb2.jpg');
-     width: 480px;
-    height:200px;
+     width: 450px;
+    height:180px;
     background-position: center center;
     text-align: center; 
 }
 .tb3{
     background-image: url('tb3.jpg');
-     width: 480px;
-    height:200px;
+     width: 450px;
+    height:180px;
     background-position: center center;
     text-align: center; 
 }
